@@ -1,1 +1,1 @@
-# Lambdas-stream
+# Lambdas-streams
